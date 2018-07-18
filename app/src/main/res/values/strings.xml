@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">DriverApp</string>
+    <string name="title_activity_welcome">Map</string>
+    <string name="google_direction_api">AIzaSyDqfI7-sdLisQs2Pc-kEhlLixWm-SdFLvM</string>
+</resources>
